@@ -1,0 +1,8 @@
+{
+  "method": "nn+2opt",
+  "n": 6137,
+  "time_seconds": 600.0074322223663,
+  "best_open_length": 101115.0234375,
+  "best_closed_length": 101128.0234375,
+  "start_idx": 3753
+}
