@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+meta.json
+route.csv
+solution.csv
+solutionNN.csv
+for_prepod.txt
